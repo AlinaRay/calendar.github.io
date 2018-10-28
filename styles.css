@@ -1,0 +1,32 @@
+.wrapper{
+    width: 100%;
+    max-width:225px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+
+}
+caption{
+    color:#0093CA;
+    font-weight: bold;
+    font-size:19px;
+
+}
+
+.weekDays{
+    font-weight: bold;
+
+}
+
+.calendDays:hover{
+    background-color:rgb(204, 221, 255) ;
+}
+
+
+.calendDays span{
+    cursor: pointer;
+}
+.weekEnds{
+    color: #ff0000;
+}
